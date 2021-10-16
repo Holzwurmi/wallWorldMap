@@ -15,7 +15,7 @@ Here are some ideas.
 
 # Notes on the blender file
 The model was created via the [svg file](https://upload.wikimedia.org/wikipedia/commons/f/fd/Blank_map_of_the_world_%28Robinson_projection%29_%2810E%29.svg) of the world which uses robinson projection with first level political division.
-For the future I want to create the svg via the unfinished subproject [mapCreator][./mapCreator].
+For the future I want to create the svg via the unfinished subproject [mapCreator](./mapCreator).
 
 From it I hope to have:
 - Less manual work in blender
